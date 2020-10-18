@@ -1,5 +1,0 @@
-Marcel
-<<<<<<< HEAD
-=======
-Adrian
->>>>>>> a1a985be649a0ebff08839d9be429c6e0017ac39
