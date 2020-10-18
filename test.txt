@@ -1,7 +1,1 @@
-<<<<<<< HEAD
 Marcel
-=======
-Marcel
-Adrian
-Jeffry
->>>>>>> 7505c66fec20ed46a34eb6c975e028404b0ef079
