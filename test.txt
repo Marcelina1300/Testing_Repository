@@ -1,5 +1,2 @@
 Marcel
-<<<<<<< HEAD
-=======
 Adrian
->>>>>>> d4677a89ab0631ce62a7e6d9da74f8499a400df4
